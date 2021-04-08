@@ -2193,19 +2193,19 @@ var socials = [
         icon: 'TelegramIcon',
         items: [
             {
-                label: 'Magikarp Finance',
-                href: 'https://t.me/magikarpfinance'
+                label: 'Absol Money',
+                href: 'https://t.me/absolmoney'
             },
             {
-                label: 'Magikarp Annoucement',
-                href: 'https://t.me/magikarpann'
+                label: 'Absol Price Bot',
+                href: 'https://t.me/ABSOL_TradeAlerts'
             }
         ]
     },
     {
         label: 'Twitter',
         icon: 'TwitterIcon',
-        href: 'https://twitter.com/MagikarpFinance'
+        href: 'https://twitter.com/absolmoney'
     }
 ];
 var MENU_HEIGHT = 64;
